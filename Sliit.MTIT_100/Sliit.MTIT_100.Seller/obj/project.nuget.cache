@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "yo65x+vnguCQ4OKQFzgFVoTEWQ36lZ3NOf6bx0XcC+kCu5R3a+5TgBhg1F/El8f38ABoZ0IS857SlTokDXabfg==",
+  "success": true,
+  "projectFilePath": "C:\\sliit\\4th year\\1st sem\\2023\\MTIT\\Assignment\\Assignment 3\\Assignment-Code\\MTIT-Microservices-group100\\Sliit.MTIT_100\\Sliit.MTIT_100.Seller\\Sliit.MTIT_100.Seller.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
