@@ -1,6 +1,12 @@
+using Sliit.MTIT_100.Seller.Models;
+using Sliit.MTIT_100.Seller.Data;
+using Sliit.MTIT_100.Seller.Services;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+builder.Services.AddScoped<ISellerService, SellerService>();
+builder.Services.AddDbContext<DbContextClass>();
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
