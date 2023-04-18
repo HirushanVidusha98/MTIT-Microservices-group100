@@ -1,10 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Sliit.MTIT_100.Seller",
-    "\\Sliit.MTIT_100.Seller\\Controllers",
-    "\\Sliit.MTIT_100.Seller\\Data"
+    "\\Sliit.MTIT_100.Seller"
   ],
-  "SelectedNode": "\\Sliit.MTIT_100.Seller\\Data\\DbContextClass.cs",
+  "SelectedNode": "\\Sliit.MTIT_100.sln",
   "PreviewInSolutionExplorer": false
 }
